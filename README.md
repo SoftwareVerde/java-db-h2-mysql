@@ -1,4 +1,4 @@
-# Java H2 Wrapper
+# Java H2 MySQL Wrapper
 
-Java wrapper for H2.
+Java wrapper for an In-Memory MySQL database (via H2).
 
